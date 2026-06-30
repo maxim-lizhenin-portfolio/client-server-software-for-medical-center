@@ -1,0 +1,16 @@
+﻿patient;специалист по приему сотрудников;составитель штатного расписания и структуры лечебного заведения;специалист по работе с клиентами;врач;медицинская сестра;лаборант;регистратор;пациент;повар;admin;_functions_;get_token;get_data;add_employee;dismiss_employee;get_hospital;get_building;get_department;get_room;add_hospital;add_building;add_department;add_room;get_room_with_count;get_employee_post_info;set_workplace_department;set_workplace_room;employee_schedule_get_info_with_id;employee_schedule_add_work_day;work_shift_get;reception_schedule_get;employee_schedule_add_reception;patient_get;medical_get;medical_add;analysis_get;analysis_add;session_get;session_add;appointment_get;appointment_add;employee_schedule_get_info_by_current_username;reception_schedule_get_by_current_username;reception_schedule_update_status;room_get_all;patient_update_room;patient_add;patient_check_polis;patient_get_snils_polis;patient_set_hospital;payment_add
+hired_employee;w;r;s;r;r;r;r;s;s;w;;nr;r;w;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;r;nr;r;nr;r;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr
+work_shift;s;w;s;r;s;s;s;s;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;r;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;nr;nr;nr;nr;nr;nr
+employee_schedule;s;w;s;r;r;r;r;r;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;nr;nr;nr;nr;nr;nr
+hospital;s;w;s;s;s;s;s;s;s;w;;nr;nr;nr;nr;r;nr;nr;nr;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;nr;nr;nr
+building;s;w;s;s;s;s;s;s;s;w;;nr;nr;nr;nr;nr;r;nr;nr;nr;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;nr;nr;nr
+department;s;w;s;s;s;s;s;s;s;w;;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;w;nr;nr;r;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;nr;nr;nr
+room;s;w;s;s;s;s;s;s;s;w;;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;w;r;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;nr;nr;nr;nr
+employee_workplace;s;w;s;s;s;s;s;s;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;r;w;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr
+patient;s;r;r;r;r;r;w;r;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;r;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;w;w;r;r;w;nr
+reception_schedule;s;w;s;r;r;s;w;r;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;nr;nr;r;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;r;w;nr;nr;nr;nr;nr;nr;nr
+medical;s;s;r;w;w;r;s;r;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr
+analysis;s;s;r;r;r;w;s;r;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr
+session;s;s;r;w;w;r;s;r;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr
+appointment;s;s;r;w;w;r;s;r;r;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;w;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr
+payment;s;s;w;s;s;s;s;s;s;w;;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;nr;r;w
